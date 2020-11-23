@@ -32,3 +32,14 @@
 </p>
 
 <br>
+
+## Quick Navigation to Learning Resources
+
+- [General](.General)
+- [Programming Languages](./Languages)
+- [Front-End Development](./Frontend)
+- [Back-End Development](./Backend)
+- [DataBases](./DataBases)
+- [Computer Science](./ComputerScience)
+- [Testing](./Testing)
+- [Books](./Books)
