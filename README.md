@@ -35,7 +35,7 @@
 
 ## Quick Navigation to Learning Resources
 
-- [General](.General)
+- [General](./General)
 - [Programming Languages](./Languages)
 - [Front-End Development](./Frontend)
 - [Back-End Development](./Backend)
