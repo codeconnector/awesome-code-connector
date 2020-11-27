@@ -1,5 +1,8 @@
-# How to Contribute
-> Submit a PR (Pull Request)
+<div align="center">
+<img height="45" src="assets/util-icons/contrib-icon.png">
+<h1> How to Contribute </h1>
+<p>Submit a PR (Pull Request)</p>
+</div>
 
 Feel free to contribute any learning resource pertaining to any subject that you would like to share with the Dev Community.
 
