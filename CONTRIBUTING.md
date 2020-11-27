@@ -3,8 +3,12 @@
 
 Feel free to contribute any learning resource pertaining to any subject that you would like to share with the Dev Community.
 
+- Fork this Repository
+
 - Make A Branch
   * Please create a separate branch for each contribution that you're working on. Do not make changes to the default branch (e.g. main, develop) of your fork.
+  * Push your branch to your Fork.
+  * Do not attempt to push to the Main Repository directly.
 
 - Describe Your Pull Request
   * Describe your change in detail. Too much detail is better than too little.

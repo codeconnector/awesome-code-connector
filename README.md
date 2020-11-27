@@ -3,7 +3,7 @@
 	<img src="assets/ccLogos/codeconnectorLogo.png" alt="codeconnector">
 </a>
 	<br>
-	<h4>Open Source Learning Resources, compiled by the Dev Community for the Dev Community.</h4>
+	<h1>Resources, compiled by the Dev Community for the Dev Community.</h1>
 	<br>
 	<br>
 	<br>
@@ -11,7 +11,7 @@
 
 <div align="center">
 	<a href="codeconnector.md">About Code Connector</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributionguidelines.md">Contribution Guidelines</a>&nbsp;&nbsp;&nbsp;
+	<a href="CONTRIBUTING.md">Contribution Guidelines</a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
@@ -35,11 +35,4 @@
 
 ## Quick Navigation to Learning Resources
 
-- [General](./General)
-- [Programming Languages](./Languages)
-- [Front-End Development](./Frontend)
-- [Back-End Development](./Backend)
-- [DataBases](./DataBases)
-- [Computer Science](./ComputerScience)
-- [Testing](./Testing)
-- [Books](./Books)
+- [General](./general)
