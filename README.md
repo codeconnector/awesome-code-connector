@@ -36,3 +36,22 @@
 ## Quick Navigation to Learning Resources
 
 - [General](./general)
+
+### Free Learning Platforms
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+
+### Free JavaScript Resources:
+- [Practical JavaScript with Watch and Code](https://watchandcode.com/p/practical-javascript)
+- [Learn JavaScript with the Odin Project](https://www.theodinproject.com/courses/javascript)
+- [Learn JavaScript on the GrassHopper mobile app](https://grasshopper.app/)
+- [Roadmap to learning JavaScript with Flaviocopes](https://flaviocopes.com/javascript/) 
+- [Learn JavaScript for free with Learn-js.org](www.learn-js.org/) 
+- [Modern JavaScript Tutorial with JavaScript.info](http://javascript.info/)
+- [Build 30 things with Vanilla JavaScript with javascript30.com](https://javascript30.com/)
+- [Learn JavaScript with fun exercises withe beginnerjavascript.com](https://beginnerjavascript.com/)
+
+
+### Free React Resouces:
+- [React Handbook by Faviocopes](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
+- [JavaScripts basics before learning React](https://dev.to/tracycss/the-vanilla-javascript-basics-to-know-before-learning-react-js-53aj)
