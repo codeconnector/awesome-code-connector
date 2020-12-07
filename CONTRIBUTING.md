@@ -1,8 +1,20 @@
-<div align="center">
-<img height="45" src="assets/util-icons/contrib-icon.png">
-<h1> How to Contribute </h1>
-<p>Submit a PR (Pull Request)</p>
-</div>
+# How to Contribute
+
+## Use Github's editor
+
+1. Click on the `readme.md` file
+1. Click on the edit icon
+1. Add an entry to the file and perhapsa new category if you feel it would be helpful. For example:
+   ```
+   - [Free Code Camp](https://www.freecodecamp.org/) - Learn to code for free online
+   ```
+1. At the bottom of the Github page, select "Propose file change"
+1. State why you are making this addition
+1. Click the button to submit the pull request
+
+A repository maintainer will review the change request.
+
+## Submit a Pull Request
 
 Feel free to contribute any learning resource pertaining to any subject that you would like to share with the Dev Community.
 
@@ -23,6 +35,7 @@ Feel free to contribute any learning resource pertaining to any subject that you
   * Feel free to add Directories in order by catagory if one does not exist.
 
 - Do not forget to credit authors, content providers if referencing them or their work.
+
 ---
 
-<p align="center"><b>Thank you for contributing Open Source Learning Resources to the Dev Community!</p>
+Thank you for contributing Open Source Learning Resources to the Dev Community!
