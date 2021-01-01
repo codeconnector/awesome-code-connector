@@ -39,11 +39,15 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Blogs](#blogs)
 - [Learning Platforms](#learning-platforms)
 - [JavaScript](#javascript)
 - [React](#react)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Blogs
+- [Tech Blogs](https://tech-blogs.dev) - This is a list of Awesome Tech Blogs.
 
 ## Learning Platforms
 - [Free Code Camp](https://www.freecodecamp.org/) - Free learning platform for beginners with tons of tutorials, blogs, and the best developer community.
