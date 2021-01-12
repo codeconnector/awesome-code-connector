@@ -67,12 +67,12 @@
 
 ## Technical Interview Study Material
 - [Technical Interview Study Guide - Eric Duran (@champagnecoder)](https://docs.google.com/spreadsheets/d/1CrOzYSdF3iV7lS7tVT2OvcjYiz4VXboYuN171EO34kA/htmlview#gid=0) - Sample technical interview study guide.
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Research material (videos and blog posts) for many technical topics to help study for technial interviews
-- [Basic Java Interview Questions](https://javaconceptoftheday.com/top-25-simple-basic-java-interview-questions-for-freshers/) - Top 25 Simple Basic Java Interview Questions For Freshers 
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Research material (videos and blog posts) for many technical topics to help study for technial interviews.
+- [Basic Java Interview Questions](https://javaconceptoftheday.com/top-25-simple-basic-java-interview-questions-for-freshers/) - Top 25 Simple Basic Java Interview Questions For Freshers.
 
 
 ## Sample Interview Questions You Can Ask
 - [Reverse Interview](https://github.com/viraptor/reverse-interview/blob/master/README.md) - List of interview questions (general and technical) you ask the interviewer.
 
 ## Interview Guide
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Carefully curated content to help you ace your next technical/Behavioral interview, with a focus on algorithms, system design, and front-end. 
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Curated content to help you ace your next technical/behavioral interview with a focus on algorithms, system design, and front-end. 
