@@ -72,3 +72,12 @@
 - [Basic Java Interview Questions](https://javaconceptoftheday.com/top-25-simple-basic-java-interview-questions-for-freshers/) - Top 25 Simple Basic Java Interview Questions For Freshers.
 - [Reverse Interview](https://github.com/viraptor/reverse-interview/blob/master/README.md) - List of interview questions (general and technical) you ask the interviewer.
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Curated content to help you ace your next technical/behavioral interview with a focus on algorithms, system design, and front-end. 
+
+## Additional Resources
+- [Github Student Developer Pack](https://education.github.com/pack) - Details about all the offers
+- What offers you can get with Studen Developer Pack: [FrontendMasters](https://frontendmasters.com/welcome/github-student-developers/) [JetBrains](https://www.jetbrains.com/community/education/#students) - and many more
+
+### Requirements
+- Be currently enrolled in a degree or diploma granting course of study such as a high school, secondary school, college, university, homeschool, or similar educational institution
+- Have a verifiable school-issued email address or upload documents that prove your current student status
+- [Explore,Apply] (https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack)
