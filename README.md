@@ -74,8 +74,8 @@
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Curated content to help you ace your next technical/behavioral interview with a focus on algorithms, system design, and front-end. 
 
 ## Additional Resources
-- [Github Student Developer Pack](https://education.github.com/pack) - Details about all the offers
-- What offers you can get with Studen Developer Pack: [FrontendMasters](https://frontendmasters.com/welcome/github-student-developers/) [JetBrains](https://www.jetbrains.com/community/education/#students) - and many more
+- [GitHub Student Developer Pack](https://education.github.com/pack) - Details about all the offers
+- What offers you can get with Student Developer Pack: [FrontendMasters](https://frontendmasters.com/welcome/github-student-developers/) [JetBrains](https://www.jetbrains.com/community/education/#students) - and many more
 
 ### Requirements
 - Be currently enrolled in a degree or diploma granting course of study such as a high school, secondary school, college, university, homeschool, or similar educational institution
