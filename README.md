@@ -78,6 +78,6 @@
 - What offers you can get with Student Developer Pack: [FrontendMasters](https://frontendmasters.com/welcome/github-student-developers/) [JetBrains](https://www.jetbrains.com/community/education/#students) - and many more
 
 ### Requirements
-- Be currently enrolled in a degree or diploma granting course of study such as a high school, secondary school, college, university, homeschool, or similar educational institution
-- Have a verifiable school-issued email address or upload documents that prove your current student status
+- `Be currently enrolled in a degree or diploma granting course of study such as a high school, secondary school, college, university, homeschool, or similar educational institution`
+- `Have a verifiable school-issued email address or upload documents that prove your current student status`
 - [Explore,Apply] (https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack)
