@@ -44,6 +44,7 @@
 - [JavaScript](#javascript)
 - [React](#react)
 - [Interview Prep](#interview-prep)
+- [Developer Tools](#developer-tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -72,3 +73,6 @@
 - [Basic Java Interview Questions](https://javaconceptoftheday.com/top-25-simple-basic-java-interview-questions-for-freshers/) - Top 25 Simple Basic Java Interview Questions For Freshers.
 - [Reverse Interview](https://github.com/viraptor/reverse-interview/blob/master/README.md) - List of interview questions (general and technical) you ask the interviewer.
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Curated content to help you ace your next technical/behavioral interview with a focus on algorithms, system design, and front-end. 
+
+## Developer Tools
+- [GitHub Student Developer Pack](https://education.github.com/pack) - A collection of the best developer tools along with offers specifically for students to learn by doing.
