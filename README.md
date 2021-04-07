@@ -44,6 +44,7 @@
 - [JavaScript](#javascript)
 - [React](#react)
 - [Interview Prep](#interview-prep)
+- [Additional Resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
