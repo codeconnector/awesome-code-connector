@@ -83,4 +83,4 @@
 ### Requirements
 - Be currently enrolled in a degree or diploma granting course of study such as a high school, secondary school, college, university, homeschool, or similar educational institution
 - Have a verifiable school-issued email address or upload documents that prove your current student status
-- [Explore,Apply](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack)
+- [Explore,Apply](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack) - Explore, Apply
